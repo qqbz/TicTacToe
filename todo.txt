@@ -1,0 +1,5 @@
+store cells in 3x3 matrix instead of array[9]
+hard and easy difficulty level
+Windows title
+
+Fix all TODOs
